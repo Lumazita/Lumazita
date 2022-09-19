@@ -1,6 +1,6 @@
 ### Hey, me chamo Luma :3
 
-![](https://media.discordapp.net/attachments/979458546246770801/1021199692475936788/lumif.gif?width=140&height=140)
+
 
 
 - 🤔 Eu sou uma menina curiosa...
@@ -25,9 +25,10 @@
   <img align="center" alt="Luma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luma-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Luma-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Luma-gif" height="30" width="40" src="https://cdn.discordapp.com/attachments/979458546246770801/1021199692475936788/lumif.gif">
-    </div>
-  <img align="right" width="150" height="150" src="https://cdn.discordapp.com/attachments/979458546246770801/1021199692475936788/lumif.gif"></a>
+  <img align="right" width="150" height="150" src="https://github.com/Lumazita/Lumazita/blob/main/lumif.gif"></a>
+</div>
+   <img align="right" width="150" height="150" src="https://github.com/Lumazita/Lumazita/blob/main/lumif.gif"></a>
+   
   
   <!-- Redes sociais -->
   
