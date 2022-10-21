@@ -27,7 +27,7 @@
   <img align="center" alt="Luma-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="right" width="150" height="150" src="https://github.com/Lumazita/Lumazita/blob/main/lumif.gif"></a>
 </div>
-   <img align="right" width="150" height="150" src="https://github.com/Lumazita/Lumazita/blob/main/lumif.gif"></a>
+   
    
   
   <!-- Redes sociais -->
